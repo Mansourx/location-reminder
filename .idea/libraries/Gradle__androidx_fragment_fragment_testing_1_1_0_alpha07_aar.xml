@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment-testing:1.1.0-alpha07@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0ffd4209f9fc852dbd2f9363b311cffb/transformed/jetified-fragment-testing-1.1.0-alpha07/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ffd4209f9fc852dbd2f9363b311cffb/transformed/jetified-fragment-testing-1.1.0-alpha07/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ffd4209f9fc852dbd2f9363b311cffb/transformed/jetified-fragment-testing-1.1.0-alpha07/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-testing/1.1.0-alpha07/8c8819994d23e5650a511a328066f263c7dbf140/fragment-testing-1.1.0-alpha07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
